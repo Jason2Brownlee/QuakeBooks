@@ -1,12 +1,12 @@
 # Quake Books
 
-A list of all books on or cover the 1996 Quake computer game by id Software.
+A list of all books on the 1996 computer game Quake (Quake 1) by id Software.
 
 ## History and Biography
 
 * [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://amzn.to/3EhDEDJ), David Kushner, 2003.
 * [Rocket Jump: Quake and the Golden Age of First-Person Shooters](https://amzn.to/3YSo237), David L. Craddock, 2019.
-	* [Free Online Version](https://www.shacknews.com/article/101156/rocket-jump-quake-and-the-golden-age-of-first-person-shooters)
+	* [Free Online Version](https://www.shacknews.com/article/101156/rocket-jump-quake-and-the-golden-age-of-first-person-shooters), Shack News.
 * [Doom Guy: Life in First Person](https://amzn.to/3QUT0FO), John Romero, 2023.
 
 ## Technical Books
