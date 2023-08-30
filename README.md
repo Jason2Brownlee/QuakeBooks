@@ -15,7 +15,7 @@ A list of all books on the 1996 computer game Quake (Quake 1) by id Software.
 	* [Free Online Version](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919), drdobbs.com.
 	* [Free Online Version](https://github.com/jagregory/abrash-black-book), James Gregory.
 
-## Strategy and Modding
+## Strategy Guides
 
 * [Quake Authorized Strategy Guide](https://amzn.to/3R0BRub), (Happy Puppy) Kevin Perry and Ed Dille, 1996.
 * [Quake Authorized Strategy Guide](https://amzn.to/3PftIku), BradyGames, 1996.
@@ -28,6 +28,13 @@ A list of all books on the 1996 computer game Quake (Quake 1) by id Software.
 * [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA), Kip Ward and Mike Van Mantgem, 1996.
 * [Prima's Quake For Nintendo 64](https://amzn.to/3OYRqQw), Kip Ward, Mike Van Mantgem, and Alex Floyd, 1998.
 	* [Free Online Version](https://archive.org/details/quake-for-nintendo-64-primas-official-strategy-guide), Internet Archive.
+
+## Other Books
+
+* Attaining Mastery of Quake, Kyle Hofmann, 1996.
+* Unofficial Quake Level Design Handbook, Matt Tagliaferri, 1997.
+	* [Free Online Version](https://archive.org/details/unofficial-quake-level-design-handbook)
+* [The Art of Quake](https://amzn.to/3svH9E7), David W. R. Rule, 2010.
 
 ## Help
 
