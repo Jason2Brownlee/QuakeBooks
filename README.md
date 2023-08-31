@@ -12,10 +12,10 @@ A list of all books on Quake by id Software.
 
 ## Technical Books
 
-* [Graphics Programming Black Book (Special Edition)](https://amzn.to/45RXbGL), Michael Abrash, 1997.
-	* [Free Online Version](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919), drdobbs.com.
-	* [Free Online Version](https://github.com/jagregory/abrash-black-book), James Gregory.
-* [Focus On Mod Programming in Quake III Arena](https://amzn.to/45uSOSd), Shawn Holmes, 2002.
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
+| --- | --- | --- | --- | --- | --- | --- |
+Michael Abrash | [Graphics Programming Black Book (Special Edition)](https://amzn.to/45RXbGL) | Coriolis Group | 1997 | 1342 | 1576101746 | 978-1576101742|
+| Shawn Holmes | [Focus On Mod Programming in Quake III Arena](https://amzn.to/45uSOSd) | Course Technology | 2002 | 304 | 193184156X | 978-1931841566 |
 
 ## Quake Strategy Guides
 
