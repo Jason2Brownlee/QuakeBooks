@@ -2,8 +2,6 @@
 
 A list of all books on Quake by id Software.
 
-Book must have at least one chapter on or about Quake, Quake II, or Quake III Arena.
-
 ## History and Biography
 
 * [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://amzn.to/3EhDEDJ), David Kushner, 2003.
@@ -68,9 +66,9 @@ Book must have at least one chapter on or about Quake, Quake II, or Quake III Ar
 
 The goal of this project is to identify all books on or that cover Quake.
 
-Ultimately, I then acquire a copy of each and read and re-read them :) I'm mostly interested in the biographic books and technical books, but I'll read anything.
+Book must have at least one chapter on or about Quake, Quake II, or Quake III Arena.
 
-This list of books is publish for other Quake + Book nerds like me, and because maybe someone knows about a book that I missed that can then be added to the list.
+It is inspired by the Doom [List of books](https://doomwiki.org/wiki/List_of_books), but for Quake.
 
 ### Why?
 
