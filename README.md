@@ -4,18 +4,11 @@ A list of all books on Quake by id Software.
 
 ## History and Biography
 
-| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 | Links |
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| David Kushner | Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture | Random House | 2004 | 368 | 9780812972153 | 978-0812972153 | [1](https://amzn.to/3EhDEDJ) |
-| David L. Craddock | Rocket Jump: Quake and the Golden Age of First-Person Shooters | Independent | 2019 | 395 | 1070183601 | 978-1070183602 | [1](https://amzn.to/3YSo237) [2](https://www.shacknews.com/article/101156/rocket-jump-quake-and-the-golden-age-of-first-person-shooters) |
-| John Romero | Doom Guy: Life in First Person | Harry N. Abrams | 2023 | 384 | 141975811X | 978-1419758119 | [1](https://amzn.to/3QUT0FO) |
-
-
-* [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://amzn.to/3EhDEDJ), David Kushner, 2003.
-* [Rocket Jump: Quake and the Golden Age of First-Person Shooters](https://amzn.to/3YSo237), David L. Craddock, 2019.
-	* [Free Online Version](https://www.shacknews.com/article/101156/rocket-jump-quake-and-the-golden-age-of-first-person-shooters), Shack News.
-* [Doom Guy: Life in First Person](https://amzn.to/3QUT0FO), John Romero, 2023.
-	* Chapter 17: Quake
+| David Kushner | [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://amzn.to/3EhDEDJ) | Random House | 2004 | 368 | 9780812972153 | 978-0812972153 | [1](https://amzn.to/3EhDEDJ) |
+| David L. Craddock | [Rocket Jump: Quake and the Golden Age of First-Person Shooters](https://amzn.to/3YSo237) | Independent | 2019 | 395 | 1070183601 | 978-1070183602 |
+| John Romero | [Doom Guy: Life in First Person](https://amzn.to/3QUT0FO) | Harry N. Abrams | 2023 | 384 | 141975811X | 978-1419758119 |
 
 ## Technical Books
 
