@@ -21,14 +21,14 @@ A list of all books on Quake by id Software.
 
 * [Quake Authorized Strategy Guide](https://amzn.to/3R0BRub), (Happy Puppy) Kevin Perry and Ed Dille, 1996.
 * [Quake Authorized Strategy Guide](https://amzn.to/3PftIku), BradyGames, 1996.
-* [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0), (Quake 64) BradyGames, 1998.
+* [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0), (BradyGames), 1998.
 	* [Free Online Version](https://archive.org/details/quake-authorized-strategy-guide), Internet Archive.
 * [Prima's Quake Strategy Guide Unauthorized](https://amzn.to/3EmPZX6), Kip Ward and Mike Van Mantgem, 1996.
 	* [Free Online Version](https://archive.org/details/primasquakestrat0000ward), Internet Archive.
 * [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD), Kip Ward and Mike Van Mantgem, 1996.
 	* [Free Online Version](https://archive.org/details/primasquakemapgu0000ward), Internet Archive.
 * [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA), Kip Ward and Mike Van Mantgem, 1996.
-* [Prima's Quake For Nintendo 64](https://amzn.to/3OYRqQw), Kip Ward, Mike Van Mantgem, and Alex Floyd, 1998.
+* [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw), Kip Ward, Mike Van Mantgem, and Alex Floyd, 1998.
 	* [Free Online Version](https://archive.org/details/quake-for-nintendo-64-primas-official-strategy-guide), Internet Archive.
 * Complete Solutions to Quake II and Quake, Roy Kimber, Andy McDermott, 1999.
 
@@ -37,12 +37,12 @@ A list of all books on Quake by id Software.
 * [Quake II: Authorized Strategy Guide](https://amzn.to/3qKJmuV), John K. Waters and Michael Koch, 1997.
 * [Quake II: Authorized Strategy Guide](https://amzn.to/45NFGHs), (BradyGames) Craig Wessel, 1997.
 	* [Free Online Version](https://archive.org/details/quake-ii-authorized-strategy-guide), Internet Archive.
-* [Official Quake II: Strategies & Secrets](https://amzn.to/45x84xL), Jonathan Mendoza, Dennis Thresh Fong, and Kenn Spear Hwang, 1997.
+* [Official Quake II: Strategies & Secrets](https://amzn.to/45x84xL), Jonathan Mendoza, Dennis "Thresh" Fong, and Kenn "Spear" Hwang, 1997.
 * [Prima's Unauthorized Guide to Quake II: Maps!](https://amzn.to/3Eh4LyX), Joe Grant Bell, Steve Honeywell, Chris Jensen, and Kip Ward, 1997.
 * [Prima's Official Strategy Guide: Quake II (PlayStation)](https://amzn.to/45xyQpG), Joe Grant Bell, 1999.
 * [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr), Steve Honeywell, 1999.
 * Quake II: Every Level Sliced! Every Baddie Diced!, Rob Waterworth, 1999.
-* Quake II: The Reckoning Official Strategies & Secrets, Jonthan Mendozn, ??? .
+* Quake II: The Reckoning Official Strategies and Secrets, Jonathan Mendoza, 1998.
 
 ## Quake III Arena Strategy Guides
 
@@ -52,7 +52,7 @@ A list of all books on Quake by id Software.
 ## Other Books
 
 * Attaining Mastery of Quake, Kyle Hofmann, 1996.
-* Unofficial Quake Level Design Handbook, Matt Tagliaferri, 1997.
+* Unofficial Quake Level Design Handbook, Matt Tagliaferri, 1996.
 	* [Free Online Version](https://archive.org/details/unofficial-quake-level-design-handbook)
 * [The Art of Quake](https://amzn.to/3svH9E7), David W. R. Rule, 2010.
 
