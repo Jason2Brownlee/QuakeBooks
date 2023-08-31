@@ -27,20 +27,21 @@ Kip Ward and Mike Van Mantgem | [Prima's Quake Strategy Guide Unauthorized](http
 Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD) | Prima Games | 1996 | 160 | 076150513X | 978-0761505136
 Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
-BradyGames Staff | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | ? | 1566867290 | 978-1566867290
+Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | 117 | 1566867290 | 978-1566867290
 Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com.au/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
 
 ## Quake II Strategy Guides
 
-* [Quake II: Authorized Strategy Guide](https://amzn.to/3qKJmuV), John K. Waters and Michael Koch, 1997.
-* [Quake II: Authorized Strategy Guide](https://amzn.to/45NFGHs), (BradyGames) Craig Wessel, 1997.
-	* [Free Online Version](https://archive.org/details/quake-ii-authorized-strategy-guide), Internet Archive.
-* [Official Quake II: Strategies & Secrets](https://amzn.to/45x84xL), Jonathan Mendoza, Dennis "Thresh" Fong, and Kenn "Spear" Hwang, 1997.
-* [Prima's Unauthorized Guide to Quake II: Maps!](https://amzn.to/3Eh4LyX), Joe Grant Bell, Steve Honeywell, Chris Jensen, and Kip Ward, 1997.
-* [Prima's Official Strategy Guide: Quake II (PlayStation)](https://amzn.to/45xyQpG), Joe Grant Bell, 1999.
-* [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr), Steve Honeywell, 1999.
-* Quake II: Every Level Sliced! Every Baddie Diced!, Rob Waterworth, 1999.
-* Quake II: The Reckoning Official Strategies and Secrets, Jonathan Mendoza, 1998.
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
+| --- | --- | --- | --- | --- | --- | --- |
+John K. Waters and Michael Koch | [Quake II: Authorized Strategy Guide](https://amzn.to/3qKJmuV) | GW Press | 1997 | 268 | 1568939590 | 978-1568939599
+Craig Wessel | [Quake II: Authorized Strategy Guide](https://amzn.to/45NFGHs) | Brady Publishing | 1997 | 168 | 1566867312 | 978-1566867313
+Jonathan Mendoza, Dennis "Thresh" Fong, and Kenn "Spear" Hwang | [Official Quake II: Strategies & Secrets](https://amzn.to/45x84xL) | Sybex | 1997 | 279 | 0782122124 | 978-0782122121
+Joe Grant Bell, Steve Honeywell, Chris Jensen, and Kip Ward | [Prima's Unauthorized Guide to Quake II: Maps!](https://amzn.to/3Eh4LyX) | Prima Games | 1998 | 208 | 076151306X | 978-0761513063
+Joe Grant Bell | [Prima's Official Strategy Guide: Quake II (PlayStation)](https://amzn.to/45xyQpG) | Prima Games | 1999 | 80 | 076152200X | 978-0761522003
+Steve Honeywell | [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr) | Prima Games | 1999 | 112 | 0761522018 | 978-0761522010
+Rob Waterworth | [Quake II: Every Level Sliced! Every Baddie Diced!](https://www.google.com.au/books/edition/Quake_II/HcSPMwEACAAJ?hl=en) | IDG Media | 1999 | 64 | ? | ?
+Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https://amzn.to/3qJGw9u) | Sybex | 1999 | 176 | 0782123007 | 9780782123005
 
 ## Quake III Arena Strategy Guides
 
