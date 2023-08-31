@@ -14,8 +14,10 @@ John Romero | [Doom Guy: Life in First Person](https://amzn.to/3QUT0FO) | Harry 
 
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
+Matt Tagliaferri | [Unofficial Quake Level Design Handbook](https://www.google.com/books/edition/Quake_Level_Design_Handbook/BiRs6j8RsMEC) | Sybex | 1996 | 350 | 0782121187 | 978-0782121186
 Michael Abrash | [Michael Abrash's Graphics Programming Black Book (Special Edition)](https://amzn.to/45RXbGL) | Coriolis Group | 1997 | 1342 | 1576101746 | 978-1576101742
 Shawn Holmes | [Focus On Mod Programming in Quake III Arena](https://amzn.to/45uSOSd) | Course Technology | 2002 | 304 | 193184156X | 978-1931841566
+David W. R. Rule | [The Art of Quake](https://amzn.to/3svH9E7) | Blurb | 2010 | 88 | 132068730X | 978-1320687317
 
 ## Quake Strategy Guides
 
@@ -26,6 +28,7 @@ BradyGames Staff | [Quake Authorized Strategy Guide](https://amzn.to/3PftIku) | 
 Kip Ward and Mike Van Mantgem | [Prima's Quake Strategy Guide Unauthorized](https://amzn.to/3EmPZX6) | Prima Games | 1996 | 240 | 0761505326 | 978-0761505327
 Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD) | Prima Games | 1996 | 160 | 076150513X | 978-0761505136
 Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
+Kyle Hofmann | Attaining Mastery of Quake | PC Gamer | 1996 | ? | ? | ?
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
 Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | 117 | 1566867290 | 978-1566867290
 Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com.au/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
@@ -45,15 +48,10 @@ Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https
 
 ## Quake III Arena Strategy Guides
 
-* [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk), Steve Honeywell, 1999.
-	* [Free Online Version](https://archive.org/details/quake-iii-arena-official-strategy-guide), Internet Archive.
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
+| --- | --- | --- | --- | --- | --- | --- |
+Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk) | Prima Games | 1999 | 200 | 0761525882 | 978-0761525882
 
-## Other Books
-
-* Attaining Mastery of Quake, Kyle Hofmann, 1996.
-* Unofficial Quake Level Design Handbook, Matt Tagliaferri, 1996.
-	* [Free Online Version](https://archive.org/details/unofficial-quake-level-design-handbook)
-* [The Art of Quake](https://amzn.to/3svH9E7), David W. R. Rule, 2010.
 
 ## Dissertations
 
@@ -72,6 +70,14 @@ It is inspired by the Doom [List of books](https://doomwiki.org/wiki/List_of_boo
 ### Why?
 
 Because I love Quake and I love books.
+
+### Where To Get The Books
+
+Most of the books are out of print.
+
+Secondhand copies can be found on Amazon and similar online resellers.
+
+Many of the books can also be found in digital format elsewhere online, such as the [Internet Archive](https://archive.org/), [Retromags](https://www.retromags.com/), and [Anna's Archive](https://annas-archive.org/).
 
 ### Help
 
