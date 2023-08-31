@@ -55,8 +55,10 @@ Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amz
 
 ## Dissertations
 
-* The Cultural and Textual Aspects of Id Software's Quake, Masters Thesis, University of Tasmania, Rohan Wilson, 1998.
-* [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publications/MSc/2001-VanWaveren-MSc.html), Masters Thesis, University of Technology Delft, J. M. P. van Waveren, 2001.
+| Author  | Title | Type | Publisher | Year | Pages |
+| --- | --- | --- | --- | --- | --- |
+Rohan Wilson | [The Cultural and Textual Aspects of Id Software's Quake](https://www.google.com.au/books/edition/The_Cultural_and_Textual_Aspects_of_Id_S/4HFangEACAAJ) | Masters | University of Tasmania | 1998 | 102
+J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publications/MSc/2001-VanWaveren-MSc.html) | Masters | University of Technology Delft | 2001 | 118
 
 
 ## About
@@ -71,7 +73,7 @@ It is inspired by the Doom [List of books](https://doomwiki.org/wiki/List_of_boo
 
 Because I love Quake and I love books.
 
-### Where To Get The Books
+### Where To Get The Books?
 
 Most of the books are out of print.
 
