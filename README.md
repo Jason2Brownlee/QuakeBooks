@@ -6,31 +6,29 @@ A list of all books on Quake by id Software.
 
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
-| David Kushner | [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://amzn.to/3EhDEDJ) | Random House | 2004 | 368 | 9780812972153 | 978-0812972153 |
-| David L. Craddock | [Rocket Jump: Quake and the Golden Age of First-Person Shooters](https://amzn.to/3YSo237) | Independent | 2019 | 395 | 1070183601 | 978-1070183602 |
-| John Romero | [Doom Guy: Life in First Person](https://amzn.to/3QUT0FO) | Harry N. Abrams | 2023 | 384 | 141975811X | 978-1419758119 |
+David Kushner | [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://amzn.to/3EhDEDJ) | Random House | 2004 | 368 | 9780812972153 | 978-0812972153
+David L. Craddock | [Rocket Jump: Quake and the Golden Age of First-Person Shooters](https://amzn.to/3YSo237) | Independent | 2019 | 395 | 1070183601 | 978-1070183602
+John Romero | [Doom Guy: Life in First Person](https://amzn.to/3QUT0FO) | Harry N. Abrams | 2023 | 384 | 141975811X | 978-1419758119
 
 ## Technical Books
 
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
-Michael Abrash | [Graphics Programming Black Book (Special Edition)](https://amzn.to/45RXbGL) | Coriolis Group | 1997 | 1342 | 1576101746 | 978-1576101742|
-| Shawn Holmes | [Focus On Mod Programming in Quake III Arena](https://amzn.to/45uSOSd) | Course Technology | 2002 | 304 | 193184156X | 978-1931841566 |
+Michael Abrash | [Michael Abrash's Graphics Programming Black Book (Special Edition)](https://amzn.to/45RXbGL) | Coriolis Group | 1997 | 1342 | 1576101746 | 978-1576101742
+Shawn Holmes | [Focus On Mod Programming in Quake III Arena](https://amzn.to/45uSOSd) | Course Technology | 2002 | 304 | 193184156X | 978-1931841566
 
 ## Quake Strategy Guides
 
-* [Quake Authorized Strategy Guide](https://amzn.to/3R0BRub), (Happy Puppy) Kevin Perry and Ed Dille, 1996.
-* [Quake Authorized Strategy Guide](https://amzn.to/3PftIku), BradyGames, 1996.
-* [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0), (BradyGames), 1998.
-	* [Free Online Version](https://archive.org/details/quake-authorized-strategy-guide), Internet Archive.
-* [Prima's Quake Strategy Guide Unauthorized](https://amzn.to/3EmPZX6), Kip Ward and Mike Van Mantgem, 1996.
-	* [Free Online Version](https://archive.org/details/primasquakestrat0000ward), Internet Archive.
-* [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD), Kip Ward and Mike Van Mantgem, 1996.
-	* [Free Online Version](https://archive.org/details/primasquakemapgu0000ward), Internet Archive.
-* [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA), Kip Ward and Mike Van Mantgem, 1996.
-* [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw), Kip Ward, Mike Van Mantgem, and Alex Floyd, 1998.
-	* [Free Online Version](https://archive.org/details/quake-for-nintendo-64-primas-official-strategy-guide), Internet Archive.
-* Complete Solutions to Quake II and Quake, Roy Kimber, Andy McDermott, 1999.
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
+| --- | --- | --- | --- | --- | --- | --- |
+Kevin Perry and Ed Dille | [Quake Authorized Strategy Guide](https://amzn.to/3R0BRub) | Ventana | 1996 | 228 | 1566046084 | 978-1566046084 |
+BradyGames | [Quake Authorized Strategy Guide](https://amzn.to/3PftIku) | Brady Publishing | 1996 | 162 | 1566864941 | 978-1566864947
+Kip Ward and Mike Van Mantgem | [Prima's Quake Strategy Guide Unauthorized](https://amzn.to/3EmPZX6) | Prima Games | 1996 | 240 | 0761505326 | 978-0761505327
+Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD) | Prima Games | 1996 | 160 | 076150513X | 978-0761505136
+Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
+Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
+Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | BradyGames | 1998 | 1566867290 | 978-Brady Publishing
+Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com.au/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
 
 ## Quake II Strategy Guides
 
