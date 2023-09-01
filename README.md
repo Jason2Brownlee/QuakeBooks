@@ -76,6 +76,16 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Focus On Mod Programming in Quake III Arena](covers/focus_on_mod_programming_in_quake_iii_arena.jpg)
 ![The Art of Quake](covers/the_art_of_quake.jpg)
 
+### Quake Strategy Guides
+
+![Quake Authorized Strategy Guide](covers/quake_authorized_strategy_guide.jpg)
+![Quake Authorized Strategy Guide](covers/quake_authorized_strategy_guide_brady.jpg)
+![Prima's Quake Strategy Guide Unauthorized](covers/primas_quake_strategy_guide_unauthorized.jpg)
+![Prima's Quake Unauthorized Map Guide](covers/primas_quake_unauthorized_map_guide.jpg)
+![Prima's Quake Game Secrets](covers/primas_quake_game_secrets.jpg)
+![Prima's Unauthorized Game Secrets: Quake for Nintendo 64](covers/primas_unauthorized_game_secrets_n64.jpg)
+![Quake Authorized Strategy Guide: Nintendo 64](covers/quake_authorized_strategy_guide_n64.jpg)
+
 ## About
 
 The goal of this project is to identify all books on or that cover Quake.
