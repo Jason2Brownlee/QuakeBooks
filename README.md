@@ -63,12 +63,18 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 
 ## Book Covers
 
-# ## History and Biography
+### History and Biography
 
-![masters of doom](covers/masters_of_doom.jpg)
-![rocket jump](covers/rocket_jump.jpg)
-![doom guy](covers/doom_guy.jpg)
+![Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](covers/masters_of_doom.jpg)
+![Rocket Jump: Quake and the Golden Age of First-Person Shooters](covers/rocket_jump.jpg)
+![Doom Guy: Life in First Person](covers/doom_guy.jpg)
 
+### Technical Books
+
+![Unofficial Quake Level Design Handbook](covers/unofficial_quake_level_design_handbook.jpg)
+![Michael Abrash's Graphics Programming Black Book (Special Edition)](covers/michael_abrashs_graphics_programming_black_book.jpg)
+![Focus On Mod Programming in Quake III Arena](covers/focus_on_mod_programming_in_quake_iii_arena.jpg)
+![The Art of Quake](covers/the_art_of_quake.jpg)
 
 ## About
 
