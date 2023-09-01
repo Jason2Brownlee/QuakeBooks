@@ -84,7 +84,18 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Prima's Quake Unauthorized Map Guide](covers/primas_quake_unauthorized_map_guide.jpg)
 ![Prima's Quake Game Secrets](covers/primas_quake_game_secrets.jpg)
 ![Prima's Unauthorized Game Secrets: Quake for Nintendo 64](covers/primas_unauthorized_game_secrets_n64.jpg)
-![Quake Authorized Strategy Guide: Nintendo 64](covers/quake_authorized_strategy_guide_n64.jpg)
+![Quake Authorized Strategy Guide: Nintendo 64](covers/quake_authorized_strategy_guide_n64.jpg	)
+
+### Quake II Strategy Guides
+
+![Quake II: Authorized Strategy Guide](covers/quake_ii_authorized_strategy_guide.jpg)
+![Quake II: Authorized Strategy Guide](covers/quake_ii_authorized_strategy_guide_brady.jpg)
+![Official Quake II: Strategies & Secrets](covers/official_quake_ii_strategies_and_secrets.jpg)
+![Prima's Unauthorized Guide to Quake II: Maps!](covers/primas_unauthorized_guide_to_quake_ii_maps.jpg)
+![Prima's Official Strategy Guide: Quake II (PlayStation)](covers/primas_official_strategy_guide_quake_ii_psx.jpg)
+![Prima's Official Strategy Guide: Quake II (N64)](covers/primas_official_strategy_guide_quake_ii_n64.jpg)
+
+
 
 ## About
 
@@ -102,7 +113,9 @@ Because I love Quake and I love books.
 
 Most of the books are out of print.
 
-Secondhand copies can be found on Amazon and similar online resellers.
+Many of the books come with a CD.
+
+Secondhand copies of books can be found on Amazon and eBay.
 
 Many of the books can also be found in digital format elsewhere online, such as the [Internet Archive](https://archive.org/), [Retromags](https://www.retromags.com/), and [Anna's Archive](https://annas-archive.org/).
 
