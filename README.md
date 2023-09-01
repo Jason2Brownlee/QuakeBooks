@@ -95,7 +95,9 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Prima's Official Strategy Guide: Quake II (PlayStation)](covers/primas_official_strategy_guide_quake_ii_psx.jpg)
 ![Prima's Official Strategy Guide: Quake II (N64)](covers/primas_official_strategy_guide_quake_ii_n64.jpg)
 
+### Quake III Arena Strategy Guides
 
+![Prima's Official Strategy Guide: Quake III Arena](covers/primas_official_strategy_guide_quake_iii_arena.jpg)
 
 ## About
 
