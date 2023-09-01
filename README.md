@@ -31,7 +31,7 @@ Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2
 Kyle Hofmann | Attaining Mastery of Quake | PC Gamer | 1996 | ? | ? | ?
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
 Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | 117 | 1566867290 | 978-1566867290
-Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com.au/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
+Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
 
 ## Quake II Strategy Guides
 
@@ -43,7 +43,7 @@ Jonathan Mendoza, Dennis "Thresh" Fong, and Kenn "Spear" Hwang | [Official Quake
 Joe Grant Bell, Steve Honeywell, Chris Jensen, and Kip Ward | [Prima's Unauthorized Guide to Quake II: Maps!](https://amzn.to/3Eh4LyX) | Prima Games | 1998 | 208 | 076151306X | 978-0761513063
 Joe Grant Bell | [Prima's Official Strategy Guide: Quake II (PlayStation)](https://amzn.to/45xyQpG) | Prima Games | 1999 | 80 | 076152200X | 978-0761522003
 Steve Honeywell | [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr) | Prima Games | 1999 | 112 | 0761522018 | 978-0761522010
-Rob Waterworth | [Quake II: Every Level Sliced! Every Baddie Diced!](https://www.google.com.au/books/edition/Quake_II/HcSPMwEACAAJ?hl=en) | IDG Media | 1999 | 64 | ? | ?
+Rob Waterworth | [Quake II: Every Level Sliced! Every Baddie Diced!](https://www.google.com/books/edition/Quake_II/HcSPMwEACAAJ?hl=en) | IDG Media | 1999 | 64 | ? | ?
 Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https://amzn.to/3qJGw9u) | Sybex | 1999 | 176 | 0782123007 | 9780782123005
 
 ## Quake III Arena Strategy Guides
@@ -57,8 +57,17 @@ Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amz
 
 | Author  | Title | Type | Publisher | Year | Pages |
 | --- | --- | --- | --- | --- | --- |
-Rohan Wilson | [The Cultural and Textual Aspects of Id Software's Quake](https://www.google.com.au/books/edition/The_Cultural_and_Textual_Aspects_of_Id_S/4HFangEACAAJ) | Masters | University of Tasmania | 1998 | 102
+Rohan Wilson | [The Cultural and Textual Aspects of Id Software's Quake](https://www.google.com/books/edition/The_Cultural_and_Textual_Aspects_of_Id_S/4HFangEACAAJ) | Masters | University of Tasmania | 1998 | 102
 J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publications/MSc/2001-VanWaveren-MSc.html) | Masters | University of Technology Delft | 2001 | 118
+
+
+## Book Covers
+
+# ## History and Biography
+
+![masters of doom](covers/masters_of_doom.jpg)
+![rocket jump](covers/rocket_jump.jpg)
+![doom guy](covers/doom_guy.jpg)
 
 
 ## About
