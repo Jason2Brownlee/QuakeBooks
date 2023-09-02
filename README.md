@@ -18,6 +18,8 @@ Matt Tagliaferri | [Unofficial Quake Level Design Handbook](https://www.google.c
 Michael Abrash | [Michael Abrash's Graphics Programming Black Book (Special Edition)](https://amzn.to/45RXbGL) | Coriolis Group | 1997 | 1342 | 1576101746 | 978-1576101742
 Shawn Holmes | [Focus On Mod Programming in Quake III Arena](https://amzn.to/45uSOSd) | Course Technology | 2002 | 304 | 193184156X | 978-1931841566
 David W. R. Rule | [The Art of Quake](https://amzn.to/3svH9E7) | Blurb | 2010 | 88 | 132068730X | 978-1320687317
+Erik Guilfoyle | [Quake 4 Mods For Dummies](https://amzn.to/44Bwq88) | Wiley | 2006 | 388 | 0470072601 | 978-0470072608
+
 
 ## Quake Strategy Guides
 
@@ -52,6 +54,13 @@ Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https
 | --- | --- | --- | --- | --- | --- | --- |
 Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk) | Prima Games | 1999 | 200 | 0761525882 | 978-0761525882
 
+## Quake 4 Strategy Guides
+
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
+| --- | --- | --- | --- | --- | --- | --- |
+Stephen Stratton and Bryan Stratton | [Quake 4 Official Game Guide](https://amzn.to/3sHAuXc) | Prima Games | 224 | 2005 | 0761552634 | 978-0761552635
+Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](https://amzn.to/45LSeiM) | Prima Games | 2005 | 224 | 0761552626 | 978-0761552628
+
 
 ## Dissertations
 
@@ -75,6 +84,7 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Michael Abrash's Graphics Programming Black Book (Special Edition)](covers/michael_abrashs_graphics_programming_black_book.jpg)
 ![Focus On Mod Programming in Quake III Arena](covers/focus_on_mod_programming_in_quake_iii_arena.jpg)
 ![The Art of Quake](covers/the_art_of_quake.jpg)
+![Quake 4 Mods For Dummies](covers/quake_4_mods_for_dummies.jpg)
 
 ### Quake Strategy Guides
 
@@ -99,6 +109,11 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ### Quake III Arena Strategy Guides
 
 ![Prima's Official Strategy Guide: Quake III Arena](covers/primas_official_strategy_guide_quake_iii_arena.jpg)
+
+### Quake 4 Strategy Guides
+
+![Quake 4 XBOX 360 Official Game Guide](covers/quake_4_xbox_360_official_game_guide.jpg)
+![Quake 4 Official Game Guide](covers/quake_4_official_game_guide.png)
 
 ## About
 
