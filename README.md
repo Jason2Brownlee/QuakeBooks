@@ -28,7 +28,7 @@ BradyGames Staff | [Quake Authorized Strategy Guide](https://amzn.to/3PftIku) | 
 Kip Ward and Mike Van Mantgem | [Prima's Quake Strategy Guide Unauthorized](https://amzn.to/3EmPZX6) | Prima Games | 1996 | 240 | 0761505326 | 978-0761505327
 Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD) | Prima Games | 1996 | 160 | 076150513X | 978-0761505136
 Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
-Kyle Hofmann | Attaining Mastery of Quake | PC Gamer | 1996 | ? | ? | ?
+Kyle R. Hofmann | How to Attain Mastery Of Quake | Future Publishing | 1996 | ? | ? | ?
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
 Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | 117 | 1566867290 | 978-1566867290
 Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
@@ -83,6 +83,7 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Prima's Quake Strategy Guide Unauthorized](covers/primas_quake_strategy_guide_unauthorized.jpg)
 ![Prima's Quake Unauthorized Map Guide](covers/primas_quake_unauthorized_map_guide.jpg)
 ![Prima's Quake Game Secrets](covers/primas_quake_game_secrets.jpg)
+![How to Attain Mastery Of Quake](covers/how_to_attain_mastery_of_quake.jpg)
 ![Prima's Unauthorized Game Secrets: Quake for Nintendo 64](covers/primas_unauthorized_game_secrets_n64.jpg)
 ![Quake Authorized Strategy Guide: Nintendo 64](covers/quake_authorized_strategy_guide_n64.jpg	)
 
