@@ -46,7 +46,7 @@ Joe Grant Bell, Steve Honeywell, Chris Jensen, and Kip Ward | [Prima's Unauthori
 Joe Grant Bell | [Prima's Official Strategy Guide: Quake II (PlayStation)](https://amzn.to/45xyQpG) | Prima Games | 1999 | 80 | 076152200X | 978-0761522003
 Steve Honeywell | [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr) | Prima Games | 1999 | 112 | 0761522018 | 978-0761522010
 Rob Waterworth | [Quake II: Every Level Sliced! Every Baddie Diced!](https://www.google.com/books/edition/Quake_II/HcSPMwEACAAJ?hl=en) | IDG Media | 1999 | 64 | ? | ?
-Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https://amzn.to/3qJGw9u) | Sybex | 1999 | 176 | 0782123007 | 9780782123005
+Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https://amzn.to/3qJGw9u) | Sybex | 1999 | 176 | 0782123007 | 978-0782123005
 
 ## Quake III Arena Strategy Guides
 
