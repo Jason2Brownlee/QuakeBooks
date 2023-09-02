@@ -112,8 +112,9 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 
 ### Quake 4 Strategy Guides
 
-![Quake 4 XBOX 360 Official Game Guide](covers/quake_4_xbox_360_official_game_guide.jpg)
 ![Quake 4 Official Game Guide](covers/quake_4_official_game_guide.png)
+![Quake 4 XBOX 360 Official Game Guide](covers/quake_4_xbox_360_official_game_guide.jpg)
+
 
 ## About
 
