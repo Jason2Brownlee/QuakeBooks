@@ -58,8 +58,8 @@ Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amz
 
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
-Stephen Stratton and Bryan Stratton | [Quake 4 Official Game Guide](https://amzn.to/3sHAuXc) | Prima Games | 224 | 2005 | 0761552634 | 978-0761552635
-Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](https://amzn.to/45LSeiM) | Prima Games | 2005 | 224 | 0761552626 | 978-0761552628
+Stephen Stratton and Bryan Stratton | [Quake 4 Official Game Guide](https://amzn.to/3sHAuXc) | Prima Games | 2005 | 224 | 0761552634 | 978-0761552635
+Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](https://amzn.to/45LSeiM) | Prima Games | 2005 | 222 | 0761552626 | 978-0761552628
 
 
 ## Dissertations
