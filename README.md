@@ -55,7 +55,7 @@ Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https
 Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk) | Prima Games | 1999 | 200 | 0761525882 | 978-0761525882
 Piotr Szczerbowski | [Quake III: Arena (Polish)](https://www.google.com/books/edition/Quake_III_Arena/XSgREAAAQBAJ) | GRY Online | 2001 | 27 | 5042741569 | 978-5042741562
 Piotr Szczerbowski | [Urban Terror (Polish)](https://www.google.com/books/edition/Urban_Terror/LSQREAAAQBAJ) | GRY Online | 2001 | ? | 5042735712 | 978-5042735714
-Makoto Ogasawara (小笠原誠) | [Quake Complete Strategy Guidebook](https://amzn.to/3qWiWGx)<br>(Quake完全攻略ガイドブック) | ASCII (アスキー) | 1997 | 111 | 4756112781 | 978-4756112781
+Makoto Ogasawara<br>(小笠原誠) | [Quake Complete Strategy Guidebook](https://amzn.to/3qWiWGx)<br>(Quake完全攻略ガイドブック) | ASCII<br>(アスキー) | 1997 | 111 | 4756112781 | 978-4756112781
 
 ## Quake 4 Strategy Guides
 
