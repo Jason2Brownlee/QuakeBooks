@@ -67,6 +67,13 @@ Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](htt
 | --- | --- | --- | --- | --- | --- | --- |
 n/a | [Quake Champions Player's Journal](https://amzn.to/482YlkD) | Prima Games | 2017 | 192 | 0744018463 | 978-0744018462
 
+## Quake Fiction
+
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
+| --- | --- | --- | --- | --- | --- | --- |
+Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3EngprN) | Titan Comics | 2018 | 112 | 1785863428 | 978-1785863424
+
+
 
 ## Dissertations
 
@@ -125,6 +132,9 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 
 ![Quake Champions Player's Journal](covers/quake_champions_players_journal.jpg)
 
+### Quake Fiction
+
+![Quake Champions Vol 1](covers/quake_champions_vol1.jpg)
 
 ## About
 
