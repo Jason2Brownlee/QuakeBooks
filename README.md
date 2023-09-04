@@ -53,6 +53,8 @@ Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
 Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk) | Prima Games | 1999 | 200 | 0761525882 | 978-0761525882
+Piotr Szczerbowski | [Quake III: Arena (Polish)](https://www.google.com/books/edition/Quake_III_Arena/XSgREAAAQBAJ) | GRY Online | 2001 | 27 | 5042741569 | 978-5042741562
+Piotr Szczerbowski | [Urban Terror (Polish)](https://www.google.com/books/edition/Urban_Terror/LSQREAAAQBAJ) | GRY Online | 2001 | ? | 5042735712 | 978-5042735714
 
 ## Quake 4 Strategy Guides
 
@@ -66,7 +68,7 @@ Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](htt
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
 Phillip Marcus and Rick Barba | [Enemy Territory: Quake Wars Brady Games Signature Series Guide](https://amzn.to/3R8F4Z2) | Brady Publishing | 2008 | 256 | 0744009472 | 978-0744009477
-Maciej Jałowiec | [Enemy Territory: Quake Wars (Polish)](https://www.google.com.au/books/edition/Enemy_Territory_Quake_Wars/eicREAAAQBAJ) | GRY-Online | 2007 | ? | n/a | n/a
+Maciej Jałowiec | [Enemy Territory: Quake Wars (Polish)](https://www.google.com/books/edition/Enemy_Territory_Quake_Wars/eicREAAAQBAJ) | GRY Online | 2007 | ? | n/a | n/a
 
 ## Quake Champions Strategy Guides
 
@@ -133,6 +135,8 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ### Quake III Arena Strategy Guides
 
 ![Prima's Official Strategy Guide: Quake III Arena](covers/primas_official_strategy_guide_quake_iii_arena.jpg)
+![Quake III: Arena (Polish)](covers/quake_iii_arena_polish.png)
+![Urban Terror (Polish)](covers/urban_terror_polish.png)
 
 ### Quake 4 Strategy Guides
 
