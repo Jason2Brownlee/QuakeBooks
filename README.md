@@ -31,9 +31,11 @@ Kip Ward and Mike Van Mantgem | [Prima's Quake Strategy Guide Unauthorized](http
 Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD) | Prima Games | 1996 | 160 | 076150513X | 978-0761505136
 Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
 Kyle R. Hofmann | [How to Attain Mastery Of Quake](https://amzn.to/3L99Pce) | Future Publishing (PC Gamer) | 1996 | ? | n/a | n/a
+E. Cameron | [Quake Strategies The Official Book](https://amzn.to/3sHIUy4) (French)<br>(Quake Stratégies Le Livre Officiel) | Pearson | 1996 | 199 | 2744002232 | 978-2744002236
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
 Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | 117 | 1566867290 | 978-1566867290
 Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
+
 
 ## Quake II Strategy Guides
 
@@ -53,8 +55,8 @@ Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
 Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk) | Prima Games | 1999 | 200 | 0761525882 | 978-0761525882
-Piotr Szczerbowski | [Quake III: Arena (Polish)](https://www.google.com/books/edition/Quake_III_Arena/XSgREAAAQBAJ) | GRY Online | 2001 | 27 | 5042741569 | 978-5042741562
-Piotr Szczerbowski | [Urban Terror (Polish)](https://www.google.com/books/edition/Urban_Terror/LSQREAAAQBAJ) | GRY Online | 2001 | ? | 5042735712 | 978-5042735714
+Piotr Szczerbowski | [Quake III: Arena](https://www.google.com/books/edition/Quake_III_Arena/XSgREAAAQBAJ) (Polish) | GRY Online | 2001 | 27 | 5042741569 | 978-5042741562
+Piotr Szczerbowski | [Urban Terror](https://www.google.com/books/edition/Urban_Terror/LSQREAAAQBAJ) (Polish) | GRY Online | 2001 | ? | 5042735712 | 978-5042735714
 Makoto Ogasawara<br>(小笠原誠) | [Quake Complete Strategy Guidebook](https://amzn.to/3qWiWGx)<br>(Quake完全攻略ガイドブック) | ASCII<br>(アスキー) | 1997 | 111 | 4756112781 | 978-4756112781
 
 ## Quake 4 Strategy Guides
@@ -69,7 +71,7 @@ Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](htt
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
 Phillip Marcus and Rick Barba | [Enemy Territory: Quake Wars Brady Games Signature Series Guide](https://amzn.to/3R8F4Z2) | Brady Publishing | 2008 | 256 | 0744009472 | 978-0744009477
-Maciej Jałowiec | [Enemy Territory: Quake Wars (Polish)](https://www.google.com/books/edition/Enemy_Territory_Quake_Wars/eicREAAAQBAJ) | GRY Online | 2007 | ? | 5042740767 | 978-5042740763
+Maciej Jałowiec | [Enemy Territory: Quake Wars](https://www.google.com/books/edition/Enemy_Territory_Quake_Wars/eicREAAAQBAJ) (Polish) | GRY Online | 2007 | ? | 5042740767 | 978-5042740763
 
 ## Quake Champions Strategy Guides
 
@@ -120,6 +122,7 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Prima's Quake Unauthorized Map Guide](covers/primas_quake_unauthorized_map_guide.jpg)
 ![Prima's Quake Game Secrets](covers/primas_quake_game_secrets.jpg)
 ![How to Attain Mastery Of Quake](covers/how_to_attain_mastery_of_quake.jpg)
+![Quake Strategies The Official Book (French)](covers/quake_strategies_french.jpg)
 ![Prima's Unauthorized Game Secrets: Quake for Nintendo 64](covers/primas_unauthorized_game_secrets_n64.jpg)
 ![Quake Authorized Strategy Guide: Nintendo 64](covers/quake_authorized_strategy_guide_n64.jpg	)
 
