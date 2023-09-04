@@ -66,7 +66,7 @@ Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](htt
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
 Phillip Marcus and Rick Barba | [Enemy Territory: Quake Wars Brady Games Signature Series Guide](https://amzn.to/3R8F4Z2) | Brady Publishing | 2008 | 256 | 0744009472 | 978-0744009477
-Maciej Jałowiec | [Enemy Territory: Quake Wars (Polish)](https://www.google.com.au/books/edition/Enemy_Territory_Quake_Wars/eicREAAAQBAJ) | GRY-Online | 2020 | ? | n/a | n/a
+Maciej Jałowiec | [Enemy Territory: Quake Wars (Polish)](https://www.google.com.au/books/edition/Enemy_Territory_Quake_Wars/eicREAAAQBAJ) | GRY-Online | 2007 | ? | n/a | n/a
 
 ## Quake Champions Strategy Guides
 
