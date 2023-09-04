@@ -1,6 +1,6 @@
-# Quake Books
+# Quake Books List
 
-A list of all books on Quake by id Software.
+List of all books on the Quake games by id Software.
 
 ## History and Biography
 
@@ -83,8 +83,7 @@ n/a | [Quake Champions Player's Journal](https://amzn.to/482YlkD) | Prima Games 
 Ram V and Alan Quah | [Quake Champions Issue 1](https://amzn.to/45ST1hI) | Titan Comics | 2017 | 31 | n/a | n/a
 Ram V and Alan Quah | [Quake Champions Issue 2](https://amzn.to/3PpYgjm) | Titan Comics | 2017 | 28 | n/a | n/a
 Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/3PoFwRq) | Titan Comics | 2017 | 48 | n/a | n/a
-Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/3PoFwRq) | Titan Comics | 2018 | 48 | n/a | n/a
-Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/4820NYi) | Titan Comics | 2018 | 2 | n/a | n/a
+Ram V and Alan Quah | [Quake Champions Issue 4](https://amzn.to/4820NYi) | Titan Comics | 2018 | 2 | n/a | n/a
 Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3EngprN) | Titan Comics | 2018 | 112 | 1785863428 | 978-1785863424
 
 ## Dissertations
@@ -166,7 +165,9 @@ The goal of this project is to identify all books on or that cover Quake.
 
 Book must have at least one chapter on or about Quake, Quake II, or Quake III Arena.
 
-It is inspired by the Doom [List of books](https://doomwiki.org/wiki/List_of_books), but for Quake.
+It is inspired by the [doom list of books](https://doomwiki.org/wiki/List_of_books), but for Quake.
+
+Some books are linked to Google Books and some to Amazon. As an Amazon Associate I earn from qualifying purchases.
 
 ### Why?
 
