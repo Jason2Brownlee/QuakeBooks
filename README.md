@@ -130,7 +130,7 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 
 ### Quake Champions Strategy Guides
 
-![Quake Champions Player's Journal](covers/quake_champions_players_journal.jpg)
+![Quake Champions Player's Journal](covers/quake_champions_player_journal.jpg)
 
 ### Quake Fiction
 
