@@ -49,6 +49,7 @@ Joe Grant Bell | [Prima's Official Strategy Guide: Quake II (PlayStation)](https
 Steve Honeywell | [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr) | Prima Games | 1999 | 112 | 0761522018 | 978-0761522010
 Rob Waterworth | [Quake II: Every Level Sliced! Every Baddie Diced!](https://www.google.com/books/edition/Quake_II/HcSPMwEACAAJ?hl=en) | IDG Media | 1999 | 64 | ? | ?
 Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https://amzn.to/3qJGw9u) | Sybex | 1999 | 176 | 0782123007 | 978-0782123005
+? | [Quake 2 Solution Book: Unofficial Game Solutions](https://amzn.eu/d/cfEa7ky) (German)<br>Quake 2 Lösungsbuch: Inoffizielle Spielelösungen | GamePress | ? | ? | ? | ?
 
 ## Quake III Arena Strategy Guides
 
@@ -57,7 +58,7 @@ Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https
 Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk) | Prima Games | 1999 | 200 | 0761525882 | 978-0761525882
 Piotr Szczerbowski | [Quake III: Arena](https://www.google.com/books/edition/Quake_III_Arena/XSgREAAAQBAJ) (Polish) | GRY Online | 2001 | 27 | 5042741569 | 978-5042741562
 Piotr Szczerbowski | [Urban Terror](https://www.google.com/books/edition/Urban_Terror/LSQREAAAQBAJ) (Polish) | GRY Online | 2001 | ? | 5042735712 | 978-5042735714
-Makoto Ogasawara<br>(小笠原誠) | [Quake Complete Strategy Guidebook](https://amzn.to/3qWiWGx)<br>(Quake完全攻略ガイドブック) | ASCII<br>(アスキー) | 1997 | 111 | 4756112781 | 978-4756112781
+Makoto Ogasawara<br>(小笠原誠) | [Quake Complete Strategy Guidebook](https://amzn.to/3qWiWGx) (Japanese)<br>(Quake完全攻略ガイドブック) | ASCII<br>(アスキー) | 1997 | 111 | 4756112781 | 978-4756112781
 
 ## Quake 4 Strategy Guides
 
@@ -134,6 +135,7 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Prima's Unauthorized Guide to Quake II: Maps!](covers/primas_unauthorized_guide_to_quake_ii_maps.jpg)
 ![Prima's Official Strategy Guide: Quake II (PlayStation)](covers/primas_official_strategy_guide_quake_ii_psx.jpg)
 ![Prima's Official Strategy Guide: Quake II (N64)](covers/primas_official_strategy_guide_quake_ii_n64.jpg)
+![Quake 2 Solution Book: Unofficial Game Solutions](covers/quake_2_solution_book.jpg)
 
 ### Quake III Arena Strategy Guides
 
