@@ -30,7 +30,7 @@ BradyGames Staff | [Quake Authorized Strategy Guide](https://amzn.to/3PftIku) | 
 Kip Ward and Mike Van Mantgem | [Prima's Quake Strategy Guide Unauthorized](https://amzn.to/3EmPZX6) | Prima Games | 1996 | 240 | 0761505326 | 978-0761505327
 Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD) | Prima Games | 1996 | 160 | 076150513X | 978-0761505136
 Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
-Kyle R. Hofmann | [How to Attain Mastery Of Quake](https://amzn.to/3L99Pce) | Future Publishing (PC Gamer) | 1996 | ? | ? | ?
+Kyle R. Hofmann | [How to Attain Mastery Of Quake](https://amzn.to/3L99Pce) | Future Publishing (PC Gamer) | 1996 | ? | n/a | n/a
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
 Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | 117 | 1566867290 | 978-1566867290
 Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
@@ -61,6 +61,13 @@ Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amz
 Stephen Stratton and Bryan Stratton | [Quake 4 Official Game Guide](https://amzn.to/3sHAuXc) | Prima Games | 2005 | 224 | 0761552634 | 978-0761552635
 Stephen Stratton and Bryan Stratton | [Quake 4 XBOX 360 Official Game Guide](https://amzn.to/45LSeiM) | Prima Games | 2005 | 222 | 0761552626 | 978-0761552628
 
+## Enemy Territory: Quake Wars Strategy Guides
+
+| Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
+| --- | --- | --- | --- | --- | --- | --- |
+Phillip Marcus and Rick Barba | [Enemy Territory: Quake Wars Brady Games Signature Series Guide](https://amzn.to/3R8F4Z2) | Brady Publishing | 2008 | 256 | 0744009472 | 978-0744009477
+Maciej Jałowiec | [Enemy Territory: Quake Wars (Polish)](https://www.google.com.au/books/edition/Enemy_Territory_Quake_Wars/eicREAAAQBAJ) | GRY-Online | 2020 | ? | n/a | n/a
+
 ## Quake Champions Strategy Guides
 
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
@@ -78,14 +85,13 @@ Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/3PoFwRq) | Titan
 Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/4820NYi) | Titan Comics | 2018 | 2 | n/a | n/a
 Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3EngprN) | Titan Comics | 2018 | 112 | 1785863428 | 978-1785863424
 
-
-
 ## Dissertations
 
 | Author  | Title | Type | Publisher | Year | Pages |
 | --- | --- | --- | --- | --- | --- |
 Rohan Wilson | [The Cultural and Textual Aspects of Id Software's Quake](https://www.google.com/books/edition/The_Cultural_and_Textual_Aspects_of_Id_S/4HFangEACAAJ) | Masters | University of Tasmania | 1998 | 102
 J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publications/MSc/2001-VanWaveren-MSc.html) | Masters | University of Technology Delft | 2001 | 118
+
 
 
 ## Book Covers
@@ -132,6 +138,11 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 
 ![Quake 4 Official Game Guide](covers/quake_4_official_game_guide.png)
 ![Quake 4 XBOX 360 Official Game Guide](covers/quake_4_xbox_360_official_game_guide.jpg)
+
+### Enemy Territory: Quake Wars Strategy Guides
+
+![Enemy Territory: Quake Wars Brady Games Signature Series Guide](covers/enemy_territory_quake_wars_brady_games_signature_series_guide.jpg)
+![Enemy Territory: Quake Wars (Polish)](covers/enemy_territory_quake_wars_polish.png)
 
 ### Quake Champions Strategy Guides
 
