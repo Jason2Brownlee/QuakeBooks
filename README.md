@@ -71,6 +71,11 @@ n/a | [Quake Champions Player's Journal](https://amzn.to/482YlkD) | Prima Games 
 
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
 | --- | --- | --- | --- | --- | --- | --- |
+Ram V and Alan Quah | [Quake Champions Issue 1](https://amzn.to/45ST1hI) | Titan Comics | 2017 | 31 | n/a | n/a
+Ram V and Alan Quah | [Quake Champions Issue 2](https://amzn.to/3PpYgjm) | Titan Comics | 2017 | 28 | n/a | n/a
+Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/3PoFwRq) | Titan Comics | 2017 | 48 | n/a | n/a
+Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/3PoFwRq) | Titan Comics | 2018 | 48 | n/a | n/a
+Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/4820NYi) | Titan Comics | 2018 | 2 | n/a | n/a
 Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3EngprN) | Titan Comics | 2018 | 112 | 1785863428 | 978-1785863424
 
 
@@ -134,6 +139,10 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 
 ### Quake Fiction
 
+![Quake Champions Issue 1](covers/quake_champions_issue_1.jpg)
+![Quake Champions Issue 2](covers/quake_champions_issue_2.jpg)
+![Quake Champions Issue 3](covers/quake_champions_issue_3.jpg)
+![Quake Champions Issue 4](covers/quake_champions_issue_4.jpg)
 ![Quake Champions Vol 1](covers/quake_champions_vol1.jpg)
 
 ## About
