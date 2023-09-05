@@ -97,7 +97,7 @@ Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3sKmPP8) (Russian)
 ## Quake Manuals
 
 | Game  | Platform | Publisher | Year | Pages |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 Quake | PC | id Software | 1996 | 22
 Quake (Read Me Text) | PC | id Software | 1996 | 52
 Quake | N64 | Midway | ? | 30
