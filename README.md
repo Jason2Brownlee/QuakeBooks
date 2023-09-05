@@ -100,14 +100,23 @@ Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3sKmPP8) (Russian)
 | --- | --- | --- | --- | --- |
 Quake | PC | id Software | 1996 | 22
 Quake (Read Me Text) | PC | id Software | 1996 | 52
-Quake | N64 | Midway | ? | 30
+Quake Mission Pack 1 | PC | Hipnotic | 1997 | 25
+Quake Mission Pack 2 | PC | Rogue | 1997 | 27
+Quake | N64 | Midway | 1997 | 30
 Quake II | PC | id Software | 1997 | 22
+Quake II Mission Pack 1 | PC | Xatrix | 1998 | 32
+Quake II Mission Pack 2 | PC | Rogue | 1997 | 34
 Quake II | PS | Hammerhead | 1999 | 28
 Quake II | N64 | Raster | 1999 | 18
 Quake III Arena | PC | id Software | 1999 | 40
+Quake III Team Arena | PC | id Software | 2000 | 18
 Quake III Arena | Dreamcast | Raster | 2000 | 32
 Quake III Revolution | PS2 | Bullfrog | 2001 | 19
-Quake 4 | XBOX 360 | Raven | 2005 | 20
+Quake 4 | XBOX 360 | Raven | 2005 | 24
+Quake 4 | PC | Raven | 2005 | 20
+Enemy Territory: Quake Wars | PC | Splash Damage | 2006 | 22
+
+
 
 ## References and Dissertations
 
@@ -193,14 +202,21 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 
 ![Quake](covers/manual_quake.png)
 ![Quake Readme](covers/manual_quake_readme.png)
+![Quake Mission Pack 1](covers/manual_quake_mission_pack_1.png)
+![Quake Mission Pack 2](covers/manual_quake_mission_pack_2.png)
 ![Quake 64](covers/manual_quake_64.png)
 ![Quake II](covers/manual_quake_ii.png)
+![Quake II Mission Pack 1](covers/manual_quake_ii_mission_pack_1.png)
+![Quake II Mission Pack 2](covers/manual_quake_ii_mission_pack_2.png)
 ![Quake II PS](covers/manual_quake_ii_ps.png)
 ![Quake II N64](covers/manual_quake_ii_n64.png)
-![Quake III Arena](covers/quake_iii_arena.png)
-![Quake III Arena Dreamcast](covers/quake_iii_arena_dc.png)
-![Quake III Revolutions PS2](covers/quake_iii_arena_revolutions.png)
-![Quake 4 XBOX](covers/quake_4_xbox.png)
+![Quake III Arena](covers/manual_quake_iii_arena.png)
+![Quake III Team Arena](covers/manual_quake_iii_team_arena.png)
+![Quake III Arena Dreamcast](covers/manual_quake_iii_arena_dc.png)
+![Quake III Revolutions PS2](covers/manual_quake_iii_arena_revolutions.png)
+![Quake 4](covers/manual_quake_4.png)
+![Quake 4 XBOX](covers/manual_quake_4_xbox.png)
+![Enemy Territory: Quake Wars](covers/manual_enemy_territory_quake_wars.png)
 
 ## About
 
