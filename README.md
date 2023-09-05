@@ -44,13 +44,14 @@ Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https
 John K. Waters and Michael Koch | [Quake II: Authorized Strategy Guide](https://amzn.to/3qKJmuV) | GW Press | 1997 | 268 | 1568939590 | 978-1568939599
 Craig Wessel | [Quake II: Authorized Strategy Guide](https://amzn.to/45NFGHs) | Brady Publishing | 1997 | 168 | 1566867312 | 978-1566867313
 Jonathan Mendoza, Dennis "Thresh" Fong, and Kenn "Spear" Hwang | [Official Quake II: Strategies & Secrets](https://amzn.to/45x84xL) | Sybex | 1997 | 279 | 0782122124 | 978-0782122121
+A. N. Drachenko (edited) | Official Quake II: Strategies & Secrets (Russian)<br>Quake II. Стратегии и секреты. Официальное руководство | Dialektika | 1998 | 293 | 0782122124 | 966-5061429
 Joe Grant Bell, Steve Honeywell, Chris Jensen, and Kip Ward | [Prima's Unauthorized Guide to Quake II: Maps!](https://amzn.to/3Eh4LyX) | Prima Games | 1998 | 208 | 076151306X | 978-0761513063
 Joe Grant Bell | [Prima's Official Strategy Guide: Quake II (PlayStation)](https://amzn.to/45xyQpG) | Prima Games | 1999 | 80 | 076152200X | 978-0761522003
 Steve Honeywell | [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr) | Prima Games | 1999 | 112 | 0761522018 | 978-0761522010
 Rob Waterworth | [Quake II: Every Level Sliced! Every Baddie Diced!](https://www.google.com/books/edition/Quake_II/HcSPMwEACAAJ?hl=en) | IDG Media | 1999 | 64 | ? | ?
 Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https://amzn.to/3qJGw9u) | Sybex | 1999 | 176 | 0782123007 | 978-0782123005
 ? | [Quake 2 Solution Book: Unofficial Game Solutions](https://amzn.eu/d/cfEa7ky) (German)<br>Quake 2 Lösungsbuch: Inoffizielle Spielelösungen | GamePress | ? | ? | ? | ?
-? | [Quake 2: Down and Dirty](https://openlibrary.org/works/OL8495880W/Quake_2?edition=key%3A/books/OL10905181M) | Prima Publishing | 1999 | ? | 0761515305 | 978-0761515302
+? | [Quake 2: Down and Dirty](https://openlibrary.org/works/OL8495880W/Quake_2?edition=key%3A/books/OL10905181M) | Prima Games | 1999 | ? | 0761515305 | 978-0761515302
 
 ## Quake III Arena Strategy Guides
 
@@ -133,6 +134,7 @@ J. M. P. van Waveren | [Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publi
 ![Quake II: Authorized Strategy Guide](covers/quake_ii_authorized_strategy_guide.jpg)
 ![Quake II: Authorized Strategy Guide](covers/quake_ii_authorized_strategy_guide_brady.jpg)
 ![Official Quake II: Strategies & Secrets](covers/official_quake_ii_strategies_and_secrets.jpg)
+![Official Quake II: Strategies & Secrets (Russian)](covers/official_quake_ii_strategies_and_secrets_russian.png)
 ![Prima's Unauthorized Guide to Quake II: Maps!](covers/primas_unauthorized_guide_to_quake_ii_maps.jpg)
 ![Prima's Official Strategy Guide: Quake II (PlayStation)](covers/primas_official_strategy_guide_quake_ii_psx.jpg)
 ![Prima's Official Strategy Guide: Quake II (N64)](covers/primas_official_strategy_guide_quake_ii_n64.jpg)
