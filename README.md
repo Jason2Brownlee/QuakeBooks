@@ -91,7 +91,7 @@ Ram V and Alan Quah | [Quake Champions Issue 2](https://amzn.to/3PpYgjm) | Titan
 Ram V and Alan Quah | [Quake Champions Issue 3](https://amzn.to/3PoFwRq) | Titan Comics | 2017 | 48 | n/a | n/a
 Ram V and Alan Quah | [Quake Champions Issue 4](https://amzn.to/4820NYi) | Titan Comics | 2018 | 2 | n/a | n/a
 Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3EngprN) | Titan Comics | 2018 | 112 | 1785863428 | 978-1785863424
-Ram V and Alan Quah | Quake Champions Vol 1 (Russian) | AST | 2019 | 110 | n/a | 978-5171123994
+Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3sKmPP8) (Russian)<br>(Quake Champions Graficheskiy Roman) | AST | 2019 | 112 | 5171123993 | 978-5171123994
 
 
 
