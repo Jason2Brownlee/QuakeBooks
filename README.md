@@ -50,6 +50,7 @@ Steve Honeywell | [Prima's Official Strategy Guide: Quake II (N64)](https://amzn
 Rob Waterworth | [Quake II: Every Level Sliced! Every Baddie Diced!](https://www.google.com/books/edition/Quake_II/HcSPMwEACAAJ?hl=en) | IDG Media | 1999 | 64 | ? | ?
 Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https://amzn.to/3qJGw9u) | Sybex | 1999 | 176 | 0782123007 | 978-0782123005
 ? | [Quake 2 Solution Book: Unofficial Game Solutions](https://amzn.eu/d/cfEa7ky) (German)<br>Quake 2 Lösungsbuch: Inoffizielle Spielelösungen | GamePress | ? | ? | ? | ?
+? | [Quake 2: Down and Dirty](https://openlibrary.org/works/OL8495880W/Quake_2?edition=key%3A/books/OL10905181M) | Prima Publishing | 1999 | ? | 0761515305 | 978-0761515302
 
 ## Quake III Arena Strategy Guides
 
