@@ -112,8 +112,8 @@ Quake III Arena | PC | id Software | 1999 | 40
 Quake III Team Arena | PC | id Software | 2000 | 18
 Quake III Arena | Dreamcast | Raster | 2000 | 32
 Quake III Revolution | PS2 | Bullfrog | 2001 | 19
-Quake 4 | XBOX 360 | Raven | 2005 | 24
 Quake 4 | PC | Raven | 2005 | 20
+Quake 4 | XBOX 360 | Raven | 2005 | 24
 Enemy Territory: Quake Wars | PC | Splash Damage | 2006 | 22
 
 
@@ -205,7 +205,7 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 ![Quake Mission Pack 1](covers/manual_quake_mission_pack_1.png)
 ![Quake Mission Pack 2](covers/manual_quake_mission_pack_2.png)
 ![Quake 64](covers/manual_quake_64.png)
-![Quake II](covers/manual_quake_ii.png)
+![Quake II](covers/manual_quake_ii_v2.jpg)
 ![Quake II Mission Pack 1](covers/manual_quake_ii_mission_pack_1.png)
 ![Quake II Mission Pack 2](covers/manual_quake_ii_mission_pack_2.png)
 ![Quake II PS](covers/manual_quake_ii_ps.png)
