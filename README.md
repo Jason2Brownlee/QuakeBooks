@@ -94,6 +94,20 @@ Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3EngprN) | Titan C
 Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3sKmPP8) (Russian)<br>(Quake Champions Graficheskiy Roman) | AST | 2019 | 112 | 5171123993 | 978-5171123994
 
 
+## Quake Manuals
+
+| Game  | Platform | Publisher | Year | Pages |
+| --- | --- | --- | --- | --- | --- |
+Quake | PC | id Software | 1996 | 22
+Quake (Read Me Text) | PC | id Software | 1996 | 52
+Quake | N64 | Midway | ? | 30
+Quake II | PC | id Software | 1997 | 22
+Quake II | PS | Hammerhead | 1999 | 28
+Quake II | N64 | Raster | 1999 | 18
+Quake III Arena | PC | id Software | 1999 | 40
+Quake III Arena | Dreamcast | Raster | 2000 | 32
+Quake III Revolution | PS2 | Bullfrog | 2001 | 19
+Quake 4 | XBOX 360 | Raven | 2005 | 20
 
 ## References and Dissertations
 
@@ -106,7 +120,7 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 
 
 
-## Book Covers
+## Cover Art
 
 ### History and Biography
 
@@ -174,6 +188,19 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 ![Quake Champions Issue 4](covers/quake_champions_issue_4.jpg)
 ![Quake Champions Vol 1](covers/quake_champions_vol1.jpg)
 ![Quake Champions Vol 1 (Russian)](covers/quake_champions_vol_1_russian.png)
+
+### Quake Manuals
+
+![Quake](covers/manual_quake.png)
+![Quake Readme](covers/manual_quake_readme.png)
+![Quake 64](covers/manual_quake_64.png)
+![Quake II](covers/manual_quake_ii.png)
+![Quake II PS](covers/manual_quake_ii_ps.png)
+![Quake II N64](covers/manual_quake_ii_n64.png)
+![Quake III Arena](covers/quake_iii_arena.png)
+![Quake III Arena Dreamcast](covers/quake_iii_arena_dc.png)
+![Quake III Revolutions PS2](covers/quake_iii_arena_revolutions.png)
+![Quake 4 XBOX](covers/quake_4_xbox.png)
 
 ## About
 
