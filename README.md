@@ -222,29 +222,23 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 
 The goal of this project is to identify all books on or that cover Quake.
 
-Book must have at least one chapter on or about Quake, Quake II, or Quake III Arena.
+Book must have at least one chapter on or about Quake, Quake II, Quake III Arena, or one of the related mission packs or subsequent Quake games in the series.
 
-It is inspired by the [doom list of books](https://doomwiki.org/wiki/List_of_books), but for Quake.
+This book list is inspired by the [doom list of books](https://doomwiki.org/wiki/List_of_books), but for Quake.
 
 Some books are linked to Google Books and some to Amazon. As an Amazon Associate I earn from qualifying purchases.
-
-### Why?
-
-Because I love Quake and I love books.
 
 ### Where To Get The Books?
 
 Most of the books are out of print. Also note that many of the books come with a CD.
 
-Secondhand print copies of books can be found on sites like Amazon and eBay.
+Secondhand copies of print books can be found on sites like Amazon and eBay.
 
 Digital and scanned copies of most books can be found elsewhere online, such as the [Internet Archive](https://archive.org/), [Retromags](https://www.retromags.com/), and [Anna's Archive](https://annas-archive.org/).
 
 ### Help
 
-Am I missing a book on Quake?
-
-Do you know about a book that has a chapter on Quake?
+Am I missing a book on Quake? Do you know about a book that has a chapter on Quake?
 
 Let me know: Jason.Brownlee05@gmail.com
 
