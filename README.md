@@ -32,9 +32,12 @@ Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://a
 Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
 Kyle R. Hofmann | [How to Attain Mastery Of Quake](https://amzn.to/3L99Pce) | Future Publishing (PC Gamer) | 1996 | ? | n/a | n/a
 E. Cameron | [Quake Strategies The Official Book](https://amzn.to/3sHIUy4) (French)<br>(Quake Stratégies Le Livre Officiel) | Pearson | 1996 | 199 | 2744002232 | 978-2744002236
+Kip Ward and Mike Van Mantgem | Prima's Quake Strategy Guide Unauthorized (Russian)<br>(Quake Серия:Полное стратегическое руководство) | AST | 1997 | 220 | 5150001384 | ?
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
 Craig Wessel | [Quake Authorized Strategy Guide: Nintendo 64](https://amzn.to/3sAcIg0) | Brady Publishing | 1998 | 117 | 1566867290 | 978-1566867290
 Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https://www.google.com/books/edition/Complete_Solutions_to_Quake_II_and_Quake/VTSIOwAACAAJ) | Paragon Publishing | 1999 | ? | ? | ?
+
+
 
 
 ## Quake II Strategy Guides
@@ -44,7 +47,7 @@ Roy Kimber and Andy McDermott | [Complete Solutions to Quake II and Quake](https
 John K. Waters and Michael Koch | [Quake II: Authorized Strategy Guide](https://amzn.to/3qKJmuV) | GW Press | 1997 | 268 | 1568939590 | 978-1568939599
 Craig Wessel | [Quake II: Authorized Strategy Guide](https://amzn.to/45NFGHs) | Brady Publishing | 1997 | 168 | 1566867312 | 978-1566867313
 Jonathan Mendoza, Dennis "Thresh" Fong, and Kenn "Spear" Hwang | [Official Quake II: Strategies & Secrets](https://amzn.to/45x84xL) | Sybex | 1997 | 279 | 0782122124 | 978-0782122121
-A. N. Drachenko (edited) | Official Quake II: Strategies & Secrets (Russian)<br>(Quake II. Стратегии и секреты. Официальное руководство) | Dialektika | 1998 | 293 | 0782122124 | 966-5061429
+A. N. Drachenko (edited) | Official Quake II: Strategies & Secrets (Russian)<br>(Quake II. Стратегии и секреты. Официальное руководство) | Dialektika | 1998 | 293 | n/a | 966-5061429
 Joe Grant Bell, Steve Honeywell, Chris Jensen, and Kip Ward | [Prima's Unauthorized Guide to Quake II: Maps!](https://amzn.to/3Eh4LyX) | Prima Games | 1998 | 208 | 076151306X | 978-0761513063
 Joe Grant Bell | [Prima's Official Strategy Guide: Quake II (PlayStation)](https://amzn.to/45xyQpG) | Prima Games | 1999 | 80 | 076152200X | 978-0761522003
 Steve Honeywell | [Prima's Official Strategy Guide: Quake II (N64)](https://amzn.to/3YYZkhr) | Prima Games | 1999 | 112 | 0761522018 | 978-0761522010
@@ -60,7 +63,7 @@ Jonathan Mendoza | [Quake II: The Reckoning Official Strategies & Secrets](https
 Steve Honeywell | [Prima's Official Strategy Guide: Quake III Arena](https://amzn.to/4868Rrk) | Prima Games | 1999 | 200 | 0761525882 | 978-0761525882
 Piotr Szczerbowski | [Quake III: Arena](https://www.google.com/books/edition/Quake_III_Arena/XSgREAAAQBAJ) (Polish) | GRY Online | 2001 | 27 | 5042741569 | 978-5042741562
 Piotr Szczerbowski | [Urban Terror](https://www.google.com/books/edition/Urban_Terror/LSQREAAAQBAJ) (Polish) | GRY Online | 2001 | ? | 5042735712 | 978-5042735714
-Makoto Ogasawara<br>(小笠原誠) | [Quake Complete Strategy Guidebook](https://amzn.to/3qWiWGx) (Japanese)<br>(Quake完全攻略ガイドブック) | ASCII<br>(アスキー) | 1997 | 111 | 4756112781 | 978-4756112781
+Makoto Ogasawara<br>(小笠原誠) | [Quake Complete Strategy Guidebook](https://amzn.to/3qWiWGx) (Japanese)<br>(Quake完全攻略ガイドブック) | ASCII<br>(アスキー) | 2001 | 111 | 4756112781 | 978-4756112781
 
 ## Quake 4 Strategy Guides
 
@@ -154,6 +157,7 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 ![Prima's Quake Game Secrets](covers/primas_quake_game_secrets.jpg)
 ![How to Attain Mastery Of Quake](covers/how_to_attain_mastery_of_quake.jpg)
 ![Quake Strategies The Official Book (French)](covers/quake_strategies_french.jpg)
+![Prima's Quake Strategy Guide Unauthorized (Russian)](covers/primas_quake_strategy_guide_unauthorized_russian.png)
 ![Prima's Unauthorized Game Secrets: Quake for Nintendo 64](covers/primas_unauthorized_game_secrets_n64.jpg)
 ![Quake Authorized Strategy Guide: Nintendo 64](covers/quake_authorized_strategy_guide_n64.jpg	)
 
