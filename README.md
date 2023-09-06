@@ -234,13 +234,11 @@ Because I love Quake and I love books.
 
 ### Where To Get The Books?
 
-Most of the books are out of print.
+Most of the books are out of print. Also note that many of the books come with a CD.
 
-Many of the books come with a CD.
+Secondhand print copies of books can be found on sites like Amazon and eBay.
 
-Secondhand copies of books can be found on Amazon and eBay.
-
-Many of the books can also be found in digital format elsewhere online, such as the [Internet Archive](https://archive.org/), [Retromags](https://www.retromags.com/), and [Anna's Archive](https://annas-archive.org/).
+Digital and scanned copies of most books can be found elsewhere online, such as the [Internet Archive](https://archive.org/), [Retromags](https://www.retromags.com/), and [Anna's Archive](https://annas-archive.org/).
 
 ### Help
 
