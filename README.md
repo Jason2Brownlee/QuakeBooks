@@ -2,7 +2,7 @@
 
 # Quake Book List
 
-List of all books on the Quake games by id Software.
+List of **all books** on **all Quake games**.
 
 ## History and Biography
 
