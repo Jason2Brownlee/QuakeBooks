@@ -2,6 +2,8 @@
 
 List of all books on the Quake games by id Software.
 
+![Quake Books](covers/QuakeBooks.png)
+
 ## History and Biography
 
 | Author  | Title | Publisher | Year | Pages | ISBN-10 | ISBN-13 |
