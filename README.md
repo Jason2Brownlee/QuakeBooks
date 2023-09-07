@@ -236,15 +236,17 @@ Some books are linked to Google Books and some to Amazon. As an Amazon Associate
 
 ### Where To Get The Books?
 
-Most of the books are out of print. Also note that many of the books come with a CD.
+Most of the books are out of print. Many of the books come with a CD.
 
 Secondhand copies of print books can be found on sites like Amazon and eBay.
 
 Digital and scanned copies of most books can be found elsewhere online, such as the [Internet Archive](https://archive.org/), [Retromags](https://www.retromags.com/), and [Anna's Archive](https://annas-archive.org/).
 
+Books are not hosted as part of this list project.
+
 ### Help
 
-Am I missing a book on Quake? Do you know about a book that has a chapter on Quake?
+Are we missing a book on Quake?
 
-Let me know: Jason.Brownlee05@gmail.com
+Let us know: Jason.Brownlee05@gmail.com
 
