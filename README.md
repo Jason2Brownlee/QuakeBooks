@@ -1,8 +1,8 @@
+![Quake Books](covers/QuakeBooks.png)
+
 # Quake Book List
 
 List of all books on the Quake games by id Software.
-
-![Quake Books](covers/QuakeBooks.png)
 
 ## History and Biography
 
