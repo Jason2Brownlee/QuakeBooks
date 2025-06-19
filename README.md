@@ -106,6 +106,7 @@ Ram V and Alan Quah | [Quake Champions Vol 1](https://amzn.to/3sKmPP8) (Russian)
 | --- | --- | --- | --- | --- |
 Quake | PC | id Software | 1996 | 22
 Quake (Read Me Text) | PC | id Software | 1996 | 52
+Book of ID | PC | id Software | 1996 | 48
 Quake Mission Pack 1 | PC | Hipnotic | 1997 | 25
 Quake Mission Pack 2 | PC | Rogue | 1997 | 27
 Quake | N64 | Midway | 1997 | 30
@@ -121,7 +122,6 @@ Quake III Revolution | PS2 | Bullfrog | 2001 | 19
 Quake 4 | PC | Raven | 2005 | 20
 Quake 4 | XBOX 360 | Raven | 2005 | 24
 Enemy Territory: Quake Wars | PC | Splash Damage | 2006 | 22
-
 
 
 ## References and Dissertations
@@ -209,6 +209,7 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 ### Quake Manuals
 
 ![Quake](covers/manual_quake.png)
+![Book of ID](covers/book_of_id.png)
 ![Quake Readme](covers/manual_quake_readme.png)
 ![Quake Mission Pack 1](covers/manual_quake_mission_pack_1.png)
 ![Quake Mission Pack 2](covers/manual_quake_mission_pack_2.png)
