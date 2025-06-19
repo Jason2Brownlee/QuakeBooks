@@ -33,6 +33,7 @@ Kip Ward and Mike Van Mantgem | [Prima's Quake Strategy Guide Unauthorized](http
 Kip Ward and Mike Van Mantgem | [Prima's Quake Unauthorized Map Guide](https://amzn.to/3QW4kBD) | Prima Games | 1996 | 160 | 076150513X | 978-0761505136
 Kip Ward and Mike Van Mantgem | [Prima's Quake Game Secrets](https://amzn.to/3L2JGvA) | Prima Games | 1996 | 112 | 0761509089 | 978-0761509080
 Kyle R. Hofmann | [How to Attain Mastery Of Quake](https://amzn.to/3L99Pce) | Future Publishing (PC Gamer) | 1996 | ? | n/a | n/a
+Robert E. Waring | [The Deathmatch Manifesto](https://amzn.to/4jYZgXQ) | Sybex | 1997 | 226 | 0782120474 | 978-0782120479
 E. Cameron | [Quake Strategies The Official Book](https://amzn.to/3sHIUy4) (French)<br>(Quake Stratégies Le Livre Officiel) | Pearson | 1996 | 199 | 2744002232 | 978-2744002236
 Kip Ward and Mike Van Mantgem | Prima's Quake Strategy Guide Unauthorized (Russian)<br>(Quake Серия:Полное стратегическое руководство) | AST | 1997 | 220 | 5150001384 | ?
 Kip Ward, Mike Van Mantgem, and Alex Floyd | [Prima's Unauthorized Game Secrets: Quake for Nintendo 64](https://amzn.to/3OYRqQw) | Prima Games | 1998 | 112 | 0761512160 | 978-0761512165
@@ -158,6 +159,7 @@ Hector Villena Cazorla | Multiple Potential Fields in Quake 2 Multiplayer | Mast
 ![Prima's Quake Unauthorized Map Guide](covers/primas_quake_unauthorized_map_guide.jpg)
 ![Prima's Quake Game Secrets](covers/primas_quake_game_secrets.jpg)
 ![How to Attain Mastery Of Quake](covers/how_to_attain_mastery_of_quake.jpg)
+![The Deathmatch Manifesto](covers/deathmatch_manifesto.jpg)
 ![Quake Strategies The Official Book (French)](covers/quake_strategies_french.jpg)
 ![Prima's Quake Strategy Guide Unauthorized (Russian)](covers/primas_quake_strategy_guide_unauthorized_russian.png)
 ![Prima's Unauthorized Game Secrets: Quake for Nintendo 64](covers/primas_unauthorized_game_secrets_n64.jpg)
